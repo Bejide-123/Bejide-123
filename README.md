@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Fifi.dev-E8A020?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bejide.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bejide-israel-8a2144377)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Fifi.dev-E8A020?style=for-the-badge&logo=vercel&logoColor=white)](https://bejide.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bejide-mofiyinfoluwa-israel-8a2144377/)
 [![Email](https://img.shields.io/badge/Email-isbejide10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isbejide10@gmail.com)
 
 </div>
@@ -60,7 +60,7 @@ I'm a Frontend Developer based in **Lagos, Nigeria**, currently interning at **S
 
 | Role | Company | Period |
 |------|---------|--------|
-| Frontend Intern | **SkilvoraX** 🟢 | March 2026 – Present |
+| Frontend Intern | **SkilvoraX** 🟢 | March 2026 – October 2026 |
 | Frontend Intern | AiWahala | April 2025 – July 2025 |
 
 **@ SkilvoraX** — Built AI-powered PDF chat & summarization, Paystack payment workflows, and production-ready UI components using React + TypeScript.
@@ -182,7 +182,7 @@ Node.js  →  Express  →  PostgreSQL  →  Full-stack Architecture
 
 **Open to internships, junior roles & freelance — remote or Lagos-based**
 
-[![Portfolio](https://img.shields.io/badge/See_my_work-Fifi.dev-E8A020?style=for-the-badge)](https://www.bejide.tech)
+[![Portfolio](https://img.shields.io/badge/See_my_work-Fifi.dev-E8A020?style=for-the-badge)](https://bejide.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8A020&height=100&section=footer" />
 
